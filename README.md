@@ -23,12 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKurenkov&layout=compact)
-
 ## Most Used Languages
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKurenkov&layout=compact&bg_color=00000000&border_color=000000&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" />
 </p>
 
