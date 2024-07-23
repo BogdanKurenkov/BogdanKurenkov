@@ -24,3 +24,5 @@
 ## 🌐 Свяжитесь со мной
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ваше-имя)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ваше-имя)
+
+[![](https://visitcount.itsvg.in/api?id=BogdanKurenkov&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
