@@ -23,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogdanKurenkov&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 ## Most Used Languages
 
