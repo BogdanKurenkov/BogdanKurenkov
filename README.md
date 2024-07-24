@@ -24,9 +24,4 @@
 </p>
 
 
-## Most Used Languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanKurenkov&layout=compact&bg_color=00000000&border_color=000000&title_color=ffffff&text_color=ffffff" alt="Most Used Languages" />
-</p>
 
